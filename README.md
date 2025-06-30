@@ -1,8 +1,5 @@
 # 🚀 Personal Portfolio - MERN Stack Developer
 
-![Portfolio Preview](https://via.placeholder.com/800x500?text=Portfolio+Preview)  
-*(Replace with actual screenshot or live link)*
-
 A modern, responsive personal portfolio website built with React and Tailwind CSS, showcasing my skills, projects, and contact information as a MERN Stack Developer.
 
 ## 🔧 Tech Stack
