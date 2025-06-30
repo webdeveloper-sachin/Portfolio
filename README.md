@@ -52,7 +52,7 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/webdeveloper-sachin/Portfolio.git
 ```
 2.Navigate to the project directory:
 ```base
