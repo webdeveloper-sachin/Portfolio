@@ -1,12 +1,83 @@
-# React + Vite
+# 🚀 Personal Portfolio - MERN Stack Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Preview](https://via.placeholder.com/800x500?text=Portfolio+Preview)  
+*(Replace with actual screenshot or live link)*
 
-Currently, two official plugins are available:
+A modern, responsive personal portfolio website built with React and Tailwind CSS, showcasing my skills, projects, and contact information as a MERN Stack Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React, React Router DOM
+- **Styling**: Tailwind CSS
+- **Icons**: react-icons
+- **Deployment**: Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+### 👋 Hero Section
+- Professional introduction with role title
+- Eye-catching gradient name styling
+- Call-to-action buttons:
+  - Contact Me
+  - View Projects
+
+### 🧠 Skills Section
+- Categorized by:
+  - Frontend
+  - Backend
+  - Database
+- Styled skill badges for each technology
+
+### 🛠️ Featured Projects
+- Project cards with:
+  - Title and description
+  - Tech stack badges
+  - GitHub and live demo icons
+  - Beautiful hover animations
+
+### 📞 Contact
+- Dedicated contact section at the bottom of homepage
+- Easy navigation to full contact page
+
+## 🧪 Sample Projects
+
+| Project | Tech Stack | Live Link |
+|---------|------------|-----------|
+| Return Inventory System | React, Express, MongoDB, Tailwind | [Live Demo](#) |
+| Employee Dashboard | React, Chart.js, Tailwind, NocoDB | [Live Demo](#) |
+
+## 🛣️ Navigation
+
+- `/contact` → Opens the contact page
+- `/projects` → Opens the full project portfolio page
+
+## 🔗 Setup & Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/your-portfolio.git
+```
+2.Navigate to the project directory:
+```base
+cd your-portfolio
+```
+3. Install dependencies:
+```base
+npm install
+```
+4. Run the development server:
+```base
+npm start
+```
+
+📂 Folder Structure
+![alt text](structure.png)
+
+📬 Contact
+Made with ❤️ by Sachin Rawat
+
+📧 Email: youremail@example.com
+
+🌐 Portfolio: your-portfolio-link.com
+
+🐙 GitHub: @Sachinrawat6
